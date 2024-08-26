@@ -333,3 +333,6 @@ To use or apply maths in java you need to use the standard library `Math`, this 
 
 # LINK: For more information about primitive types.
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
+
+![confirm-photo](ejercicios.png)
